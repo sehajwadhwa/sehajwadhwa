@@ -81,6 +81,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sehajwadhwa/sehajwadhwa/output/snake.svg" alt="Snake animation" />
-
 ###
